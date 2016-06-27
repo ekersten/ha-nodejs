@@ -4,6 +4,7 @@
   "description": "socket.io app",
   "dependencies": {
     "express": "^4.10.2",
+    "mqtt": "^1.12.0",
     "socket.io": "^1.4.6"
   }
 }
